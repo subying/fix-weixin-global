@@ -1,6 +1,6 @@
 {
   "name": "fix-weixin-global",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "wexin",
     "global"
   ],
+  "type": "module",
   "author": "subying",
   "license": "ISC",
   "bugs": {

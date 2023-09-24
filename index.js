@@ -29,3 +29,6 @@ global.clearTimeout = clearTimeout;
 global.isFinite = isFinite;
 global.parseInt = parseInt;
 global.setTimeout = setTimeout;
+
+// 这里设置导出，防止像vite这样的工具在编译是把global转成其他变量
+export default global;
