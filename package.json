@@ -1,0 +1,24 @@
+{
+  "name": "fix-weixin-global",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subying/fix-weixin-global.git"
+  },
+  "keywords": [
+    "fix",
+    "wexin",
+    "global"
+  ],
+  "author": "subying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subying/fix-weixin-global/issues"
+  },
+  "homepage": "https://github.com/subying/fix-weixin-global#readme"
+}
